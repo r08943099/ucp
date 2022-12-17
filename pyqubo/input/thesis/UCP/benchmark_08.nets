@@ -1,0 +1,1118 @@
+NumNets: 207
+NetDegree: 35
+0
+10
+137
+106
+25
+117
+212
+150
+2
+77
+63
+99
+58
+103
+38
+52
+140
+176
+110
+107
+122
+124
+197
+109
+138
+155
+156
+148
+64
+8
+90
+178
+40
+185
+141
+NetDegree: 29
+1
+10
+196
+14
+70
+93
+187
+80
+87
+208
+36
+86
+189
+67
+164
+64
+8
+139
+96
+172
+90
+181
+71
+179
+40
+185
+190
+167
+210
+NetDegree: 23
+126
+10
+212
+63
+58
+103
+52
+140
+176
+37
+110
+107
+122
+124
+197
+156
+148
+64
+8
+178
+40
+185
+141
+NetDegree: 21
+177
+10
+196
+14
+70
+87
+208
+41
+189
+67
+164
+64
+8
+139
+157
+96
+100
+172
+179
+40
+167
+NetDegree: 49
+98
+144
+112
+22
+186
+94
+51
+66
+72
+74
+46
+7
+75
+34
+12
+111
+123
+127
+77
+26
+114
+115
+52
+140
+176
+118
+146
+120
+125
+134
+81
+136
+95
+189
+67
+164
+139
+44
+89
+211
+100
+172
+90
+181
+179
+97
+173
+167
+193
+NetDegree: 52
+48
+144
+112
+22
+186
+94
+51
+66
+72
+74
+46
+7
+75
+34
+111
+123
+127
+77
+26
+114
+115
+52
+140
+176
+110
+118
+146
+120
+125
+134
+81
+136
+95
+189
+23
+67
+164
+139
+44
+89
+157
+211
+100
+172
+90
+151
+181
+179
+97
+173
+167
+193
+NetDegree: 36
+3
+32
+33
+186
+24
+94
+51
+209
+113
+207
+121
+25
+59
+101
+12
+35
+187
+194
+87
+2
+63
+26
+132
+16
+146
+120
+122
+197
+138
+23
+89
+170
+100
+151
+175
+193
+NetDegree: 33
+60
+32
+33
+82
+56
+113
+207
+121
+25
+74
+59
+101
+12
+35
+187
+194
+2
+127
+114
+16
+107
+122
+125
+153
+138
+86
+23
+211
+170
+151
+180
+175
+141
+NetDegree: 3
+149
+119
+133
+NetDegree: 45
+9
+119
+33
+82
+24
+56
+209
+113
+207
+121
+72
+25
+74
+59
+101
+12
+35
+187
+194
+36
+2
+127
+38
+132
+115
+16
+118
+107
+120
+124
+125
+136
+153
+138
+155
+86
+89
+96
+170
+151
+178
+180
+175
+184
+141
+NetDegree: 2
+10
+69
+NetDegree: 2
+119
+165
+NetDegree: 2
+104
+199
+NetDegree: 4
+196
+188
+53
+42
+NetDegree: 2
+14
+169
+NetDegree: 2
+15
+47
+NetDegree: 3
+27
+119
+133
+NetDegree: 2
+29
+119
+NetDegree: 3
+133
+104
+39
+NetDegree: 4
+88
+104
+162
+39
+NetDegree: 5
+28
+104
+163
+162
+39
+NetDegree: 2
+78
+104
+NetDegree: 2
+163
+15
+NetDegree: 2
+162
+15
+NetDegree: 2
+39
+15
+NetDegree: 9
+144
+166
+171
+208
+58
+154
+175
+182
+108
+NetDegree: 7
+112
+18
+129
+130
+30
+201
+198
+NetDegree: 2
+22
+102
+NetDegree: 3
+20
+27
+206
+NetDegree: 2
+17
+27
+NetDegree: 2
+30
+27
+NetDegree: 2
+31
+27
+NetDegree: 4
+32
+115
+91
+43
+NetDegree: 7
+33
+186
+83
+111
+142
+159
+97
+NetDegree: 6
+186
+212
+19
+79
+135
+78
+NetDegree: 2
+82
+53
+NetDegree: 19
+91
+137
+166
+117
+150
+19
+79
+18
+99
+200
+54
+129
+130
+30
+158
+201
+92
+108
+198
+NetDegree: 19
+37
+137
+166
+117
+150
+19
+79
+18
+99
+200
+54
+129
+130
+30
+158
+201
+92
+108
+198
+NetDegree: 7
+137
+6
+131
+57
+190
+202
+210
+NetDegree: 5
+24
+41
+123
+116
+65
+NetDegree: 3
+94
+83
+147
+NetDegree: 2
+41
+73
+NetDegree: 2
+68
+73
+NetDegree: 2
+43
+73
+NetDegree: 2
+44
+73
+NetDegree: 14
+73
+49
+161
+102
+6
+92
+131
+97
+57
+190
+135
+78
+202
+210
+NetDegree: 5
+46
+50
+62
+203
+145
+NetDegree: 3
+87
+50
+62
+NetDegree: 8
+161
+50
+62
+93
+21
+80
+105
+174
+NetDegree: 8
+102
+50
+62
+93
+21
+80
+105
+174
+NetDegree: 3
+50
+163
+49
+NetDegree: 5
+51
+11
+155
+156
+188
+NetDegree: 6
+99
+55
+106
+168
+76
+145
+NetDegree: 6
+200
+55
+106
+168
+76
+145
+NetDegree: 6
+54
+55
+106
+168
+76
+145
+NetDegree: 4
+55
+171
+203
+105
+NetDegree: 3
+56
+83
+142
+NetDegree: 2
+7
+83
+NetDegree: 5
+83
+184
+128
+190
+210
+NetDegree: 10
+59
+166
+66
+75
+34
+77
+95
+154
+182
+108
+NetDegree: 2
+166
+168
+NetDegree: 2
+101
+20
+NetDegree: 2
+77
+20
+NetDegree: 4
+63
+20
+171
+203
+NetDegree: 4
+145
+20
+4
+17
+NetDegree: 3
+209
+156
+198
+NetDegree: 2
+66
+39
+NetDegree: 6
+106
+21
+183
+84
+192
+174
+NetDegree: 4
+113
+148
+5
+188
+NetDegree: 12
+207
+46
+171
+208
+61
+143
+58
+103
+134
+81
+161
+102
+NetDegree: 2
+70
+111
+NetDegree: 6
+121
+75
+11
+95
+68
+173
+NetDegree: 5
+72
+61
+143
+103
+68
+NetDegree: 5
+25
+204
+44
+5
+128
+NetDegree: 10
+74
+101
+4
+87
+17
+63
+200
+109
+71
+102
+NetDegree: 5
+75
+154
+158
+182
+183
+NetDegree: 2
+34
+105
+NetDegree: 2
+62
+28
+NetDegree: 3
+93
+84
+88
+NetDegree: 2
+171
+28
+NetDegree: 3
+12
+36
+38
+NetDegree: 2
+167
+35
+NetDegree: 2
+35
+202
+NetDegree: 2
+168
+152
+NetDegree: 2
+84
+163
+NetDegree: 3
+85
+163
+88
+NetDegree: 2
+86
+147
+NetDegree: 2
+189
+147
+NetDegree: 2
+147
+45
+NetDegree: 2
+187
+45
+NetDegree: 2
+5
+203
+NetDegree: 2
+203
+192
+NetDegree: 2
+92
+21
+NetDegree: 2
+21
+85
+NetDegree: 2
+40
+11
+NetDegree: 2
+11
+188
+NetDegree: 3
+197
+4
+17
+NetDegree: 2
+97
+4
+NetDegree: 2
+4
+85
+NetDegree: 2
+128
+80
+NetDegree: 2
+80
+192
+NetDegree: 2
+108
+49
+NetDegree: 2
+49
+28
+NetDegree: 2
+90
+194
+NetDegree: 2
+194
+6
+NetDegree: 3
+105
+85
+205
+NetDegree: 2
+208
+71
+NetDegree: 2
+64
+61
+NetDegree: 2
+61
+43
+NetDegree: 2
+8
+143
+NetDegree: 2
+143
+68
+NetDegree: 2
+111
+43
+NetDegree: 3
+26
+36
+38
+NetDegree: 2
+36
+44
+NetDegree: 4
+114
+41
+132
+116
+NetDegree: 5
+115
+41
+37
+116
+195
+NetDegree: 2
+116
+117
+NetDegree: 2
+117
+29
+NetDegree: 2
+118
+212
+NetDegree: 2
+212
+13
+NetDegree: 2
+120
+150
+NetDegree: 2
+150
+13
+NetDegree: 2
+122
+123
+NetDegree: 2
+123
+160
+NetDegree: 2
+124
+19
+NetDegree: 2
+19
+13
+NetDegree: 2
+2
+159
+NetDegree: 2
+127
+159
+NetDegree: 2
+79
+29
+NetDegree: 2
+129
+17
+NetDegree: 2
+130
+76
+NetDegree: 2
+76
+31
+NetDegree: 2
+138
+18
+NetDegree: 2
+18
+31
+NetDegree: 2
+134
+99
+NetDegree: 2
+58
+109
+NetDegree: 2
+103
+91
+NetDegree: 2
+38
+91
+NetDegree: 3
+132
+37
+195
+NetDegree: 2
+52
+142
+NetDegree: 2
+140
+142
+NetDegree: 2
+176
+91
+NetDegree: 2
+142
+37
+NetDegree: 2
+110
+16
+NetDegree: 2
+16
+116
+NetDegree: 2
+107
+160
+NetDegree: 2
+146
+160
+NetDegree: 2
+125
+159
+NetDegree: 2
+81
+54
+NetDegree: 2
+109
+54
+NetDegree: 2
+136
+204
+NetDegree: 2
+95
+204
+NetDegree: 2
+204
+129
+NetDegree: 2
+153
+154
+NetDegree: 2
+154
+130
+NetDegree: 2
+155
+30
+NetDegree: 2
+156
+148
+NetDegree: 2
+148
+158
+NetDegree: 2
+158
+31
+NetDegree: 2
+159
+160
+NetDegree: 2
+160
+13
+NetDegree: 2
+13
+29
+NetDegree: 2
+23
+65
+NetDegree: 2
+67
+65
+NetDegree: 2
+164
+68
+NetDegree: 2
+139
+43
+NetDegree: 2
+89
+135
+NetDegree: 2
+157
+53
+NetDegree: 2
+96
+78
+NetDegree: 2
+211
+170
+NetDegree: 2
+170
+195
+NetDegree: 2
+100
+65
+NetDegree: 2
+172
+53
+NetDegree: 2
+151
+201
+NetDegree: 2
+201
+6
+NetDegree: 2
+181
+161
+NetDegree: 2
+71
+161
+NetDegree: 3
+6
+85
+205
+NetDegree: 2
+178
+5
+NetDegree: 2
+179
+5
+NetDegree: 2
+180
+182
+NetDegree: 2
+175
+183
+NetDegree: 2
+182
+84
+NetDegree: 2
+183
+88
+NetDegree: 2
+184
+92
+NetDegree: 2
+185
+131
+NetDegree: 2
+131
+192
+NetDegree: 2
+173
+57
+NetDegree: 2
+188
+57
+NetDegree: 2
+57
+191
+NetDegree: 2
+190
+191
+NetDegree: 3
+191
+84
+88
+NetDegree: 2
+192
+28
+NetDegree: 2
+53
+45
+NetDegree: 2
+65
+195
+NetDegree: 2
+195
+45
+NetDegree: 2
+45
+135
+NetDegree: 2
+135
+78
+NetDegree: 2
+198
+202
+NetDegree: 2
+141
+193
+NetDegree: 2
+193
+162
+NetDegree: 2
+174
+206
+NetDegree: 2
+202
+152
+NetDegree: 2
+210
+205
+NetDegree: 2
+152
+205
+NetDegree: 2
+205
+206
+NetDegree: 2
+206
+162

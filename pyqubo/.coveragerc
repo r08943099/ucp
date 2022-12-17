@@ -1,0 +1,4 @@
+[run]
+# omit virtualenv
+omit = venv/*, pyqubo/package_info.py
+source=pyqubo
